@@ -1,5 +1,8 @@
 # medium-mermaid
-Medium publication about the Mermaid GitHub charts
+Medium publication about the Mermaid GitHub charts.
+
+Disclaimer: the following examples come from the official Mermaid documentation
+available at https://github.com/mermaid-js/mermaid
 
 ## Flowchart
 
