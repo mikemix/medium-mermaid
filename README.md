@@ -3,8 +3,8 @@ Medium publication about the Mermaid GitHub charts
 
 ## Flowchart
 
-```mermaid
-flowchart LR
+```mermaid 
+  flowchart LR
     A[Hard edge] -->|Link text| B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
