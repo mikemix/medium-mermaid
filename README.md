@@ -1,6 +1,8 @@
 # medium-mermaid
 Medium publication about the Mermaid GitHub charts.
 
+https://medium.com/@dotcom.software/diagrams-in-your-github-files-with-mermaid-273003d54421
+
 Disclaimer: the following examples come from the official Mermaid documentation
 available at https://github.com/mermaid-js/mermaid
 
